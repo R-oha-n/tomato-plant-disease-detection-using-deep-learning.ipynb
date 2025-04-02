@@ -1,1 +1,1 @@
-# tomato-plant-disease-detection-using-deep-learning.ipynb
+# Tomato-plant-disease-detection.ipynb
